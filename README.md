@@ -2,6 +2,10 @@
 
 Tilen Ožbot, Maks Popović
 
+## Project Overview
+
+This project analyzes New York City Taxi and Limousine Commission (TLC) trip record data as part of the Big Data Project 2024-25 course. The analysis covers multiple taxi service types (Yellow, Green, FHV, FHVHV) spanning from 2012 to 2024, processing billions of trip records to understand transportation patterns, pricing dynamics, and temporal trends in NYC.
+
 ## Note for viewing
 
 We used ITables to display dataframes (for interactive filtering/pagination),
