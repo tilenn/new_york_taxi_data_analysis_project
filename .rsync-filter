@@ -1,0 +1,19 @@
+# Sync script
+- /up.sh
+- /down.sh
+- /.rsync-filter
+
+# Git
+- /.git
+
+# Direnv
+- /.envrc.local
+- /.direnv
+
+# Python
+- /.venv
+- __pycache__/
+- *.py[oc]
+
+# Project
+- /ext

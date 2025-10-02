@@ -1,0 +1,13 @@
+# Direnv
+/.envrc.local
+/.direnv
+
+# Python
+/.venv/
+__pycache__/
+*.py[oc]
+
+# Project
+/ext/
+
+.DS_Store
